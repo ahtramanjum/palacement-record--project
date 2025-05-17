@@ -24,6 +24,6 @@ I developed an interactive **Placement Record Dashboard** for my college using *
  Enhanced **transparency and accessibility** of placement data.
 
 
- https://github.com/ahtramanjum/palacement-record--project/blob/main/palacement%20Report.png
+(https://github.com/ahtramanjum/palacement-record--project/blob/main/palacement%20Report.png)
  
 
